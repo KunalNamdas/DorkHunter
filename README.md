@@ -3,7 +3,13 @@
 DorkHunter is a powerful tool for performing Google Dork searches. It allows you to automate the process of finding specific types of information on websites using Google Dorks. With DorkHunter, you can save results in multiple formats, send them via email, and customize your search queries.
 
 # DEVELOPER
-Kunal Namdas
+
+#### Kunal Namdas
+
+
+
+### DorkHunter image
+![DorkHunter image](DorkHunter.png)
 
 ## Features
 
