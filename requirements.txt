@@ -1,0 +1,9 @@
+googlesearch-python
+google
+requests
+smtplib
+email
+argparse
+logging
+json
+csv
